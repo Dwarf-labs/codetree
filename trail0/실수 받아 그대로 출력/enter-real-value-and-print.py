@@ -1,3 +1,3 @@
 N = float(input())
 
-print(round(N, 2))
+print(f"{N:.2f}")
